@@ -1,0 +1,312 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    font-family: Arial, sans-serif;
+    background-color: black;
+    text-align: center;
+    padding: 20px; 
+}
+
+
+#php-box, #jquery-box, #Java, #Cplus, #W3-CSS, #Boot-strap {
+    display: inline-block;
+    width: 40%; 
+    height: 200px; 
+    vertical-align: top; 
+    
+    margin: 20px 2.5%; 
+    padding: 20px;
+    border-radius: 10px;
+    background-color: #2f2f37; 
+    color: black;
+    text-align: center;
+}
+
+#C
+{
+    display: inline-block;
+    width: 40%; 
+    height: 100px; 
+    vertical-align: top; 
+    
+    margin: 20px 2.5%;
+    padding-top:30px;
+    border-radius: 10px;
+    background-color: palevioletred; 
+    color: black;
+    text-align: center;
+ 
+
+
+}
+#CSHARP
+{
+    display: inline-block;
+    width: 40%; 
+    height: 100px; 
+    vertical-align: top; 
+    
+    margin: 20px 2.5%; 
+    padding-top:30px;
+    border-radius: 10px;
+    background-color:#e5f17e ; 
+    color: black;
+    text-align: center;
+ 
+
+
+}
+#R,#Kotlin,#Node,#React,#JSON,#Vue,#MySQL,#XML,#Sass,#Icons,#RWD,#Grapics,#SVG,#Canvas
+{
+    display: inline-block;
+    width: 17%; 
+    height: 100px; 
+    vertical-align: top; 
+    
+    margin: 20px 2.5%;
+    padding-top:30px;
+    border-radius: 10px;
+    
+    color: black;
+    text-align: center;
+ 
+
+
+}
+#RaspberryPi,#CyberSecurity,#Colors,#Git,#Matplotlib,#Numpy,#Pandas,#SciPy,#ASP,#AngularJS
+{
+    display: inline-block;
+    width: 17%; 
+    height: 100px; 
+    vertical-align: top; 
+    
+    margin: 20px 2.5%;
+    padding-top:30px;
+    border-radius: 10px;
+    
+    color: black;
+    text-align: center;
+ 
+
+
+}
+#AppML,#Go,#TypeScript,#Django,#MangoDB,#Statistics,#DataScience,#TypingSpeed,#HowTo,#CodeGame,#Spaces,#PostgreSQL
+{
+    display: inline-block;
+    width: 17%; 
+    height: 100px; 
+    vertical-align: top; 
+    
+    margin: 20px 2.5%;
+    padding-top:30px;
+    border-radius: 10px;
+    
+    color: black;
+    text-align: center;
+ 
+
+
+}
+#Excel,#DSA,#ML,#AI
+{
+    display: inline-block;
+    width: 40%; 
+    height: 100px; 
+    vertical-align: top; 
+    
+    margin: 20px 2.5%;
+    padding-top:30px;
+    border-radius: 10px;
+   
+    color: black;
+    text-align: center;
+ 
+
+
+}
+
+
+#php-box {
+    background-color: #ffcccc;
+}
+
+#jquery-box {
+    background-color: #ffeb99;
+}
+
+#Java {
+    background-color: #d4f1f9;
+}
+
+#Cplus {
+    background-color: #d9e2ff;
+}
+
+#W3-CSS {
+    background-color: #5dade2;
+}
+
+#Boot-strap {
+    background-color: #ecf0f1;
+}
+#C{
+    background-color: pink;
+}
+#CSHARP{
+    background-color: #e5f17e;
+}
+
+#R{
+    background-color: #d8abd6;
+}
+#Kotlin{
+    background-color: #bcdbe4;
+}
+#Node{
+    background-color: #42abca;
+}
+#React{
+    background-color: #e862a5;
+
+}
+#JSON{
+    background-color: #cacf3c;
+}
+#Vue{
+    background-color: #ebeebb;
+}
+#MySQL{
+    background-color: #aad7b0 ;
+}
+#XML{
+    background-color: #9beae6 ;
+}
+#Sass{
+    background-color: #e187d9 ;
+    
+}
+#Icons{
+    background-color: #e1fa57 ;
+}
+#RWD{
+    background-color: #c4cf87 ;
+}
+#Grapics{
+    background-color: #8eea9a ;
+}
+#SVG{
+    background-color: #6bd6d1 ;
+}
+#Canvas{
+    background-color: #e78dd1 ;
+}
+#RaspberryPi{
+    background-color: #e4e25e ;
+}
+#CyberSecurity{
+    background-color: #f0f0ce ;
+}
+#Colors{
+    background-color: ghostwhite;
+
+}
+#Git{
+    background-color: #7ededb ;
+}
+#Matplotlib{
+    background-color: #de7ed6 ;
+}
+
+#Numpy{
+    background-color: #ddee4b ;
+}
+#Pandas{
+    background-color: #eaf1ac ;
+}
+#SciPy{
+    background-color: #e9edc6 ;
+}
+#ASP{
+    background-color:#17f2ce  ;
+}
+#AngularJS{
+    background-color: #f287d2 ;
+}
+#AppML{
+    background-color:#f4d940 ;
+}
+#Go{
+    background-color:#9cb2e1  ;
+}
+#TypeScript{
+    background-color:#dbe9ef  ;
+}
+#Django{
+    background-color: #77c9ef ;
+}
+#MangoDB{
+    background-color:#e15ae7  ;
+}
+#Statistics
+{
+    background-color:#c5e35d ;
+}
+#DataScience{
+    background-color:#d98bea ;
+}
+#TypingSpeed{
+    background-color:#b7f4d9 ;
+}
+#HowTo{
+    background-color:#80eae9  ;
+}
+#CodeGame{
+    background-color: #ee94d5 ;
+}
+#Spaces{
+    background-color:#ecf07c  ;
+}
+#PostgreSQL{
+    background-color:#ecb6f0  ;
+}
+#Excel{
+    background-color: #5dade2;
+}
+#DSA{
+      background-color: #8eea9a;
+}
+#ML{
+    background-color: #c4cf87;
+}
+#AI{
+    background-color: palevioletred;
+}
+
+h2 {
+    font-size: 24px;
+    -webkit-text-fill-color: black;
+    margin-bottom: 10px;}
+p {
+    font-size: 16px;
+    margin-bottom: 10px;
+}
+
+
+span {
+    display: inline-block;
+    background-color: #333;
+    color: white;
+    padding: 20px 20px;
+    border-radius: 20px;
+    cursor: pointer;
+    margin-top: 10px;
+}
+
+span:hover {
+    background-color: #555;
+}
+
